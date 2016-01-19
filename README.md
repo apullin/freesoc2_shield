@@ -1,2 +1,4 @@
 # freesoc2_shield
-A generic shield template for the FreeSoC 2 board
+A generic shield template for the FreeSoC 2 board.
+
+Work in progress!
